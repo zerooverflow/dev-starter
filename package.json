@@ -1,0 +1,20 @@
+{
+  "name": "sviluppo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-html-replace": "latest",
+    "gulp-htmlmin": "latest",
+    "lite-server": "latest"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "simone buono",
+  "license": "ISC"
+}
